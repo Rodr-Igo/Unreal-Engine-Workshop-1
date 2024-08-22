@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/Slash/Content/StarterContent/Props/MaterialSphere.uasset",
+				"E:/Unreal Projects/Slash/Content/Minimal_Default.umap",
+				"E:/Unreal Projects/Slash/Content/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
