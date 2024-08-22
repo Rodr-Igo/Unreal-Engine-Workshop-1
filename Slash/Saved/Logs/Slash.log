@@ -1382,3 +1382,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.22-20.35.03:351][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Props/Materials/M_TableRound_Auto1
 [2024.08.22-20.35.03:351][955]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/M_TableRound_Auto11DEA88A942301D66DF62C5B5C744F0FB.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/StarterContent/Props/Materials/M_TableRound_Auto1.uasset'
 [2024.08.22-20.35.03:351][955]LogFileHelpers: Auto-saving content packages took 0.040
+[2024.08.22-20.35.58:524][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-20.35.58:556][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.08.22-20.35.58:565][301]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default
+[2024.08.22-20.35.58:565][301]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Minimal_Default55FF214045A92F127BC0998D827AD47D.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Maps/Minimal_Default.umap'
+[2024.08.22-20.35.58:570][301]LogFileHelpers: Saving map 'Minimal_Default' took 0.019
+[2024.08.22-20.35.58:579][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 117 ms)
+[2024.08.22-20.35.58:582][301]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.08.22-20.35.58:582][301]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Minimal_Default.Minimal_Default
