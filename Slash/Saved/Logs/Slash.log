@@ -1677,3 +1677,38 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.23-22.30.57:932][460]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
 [2024.08.23-22.30.57:932][460]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.InstancedFoliageActor_25600_0_0_0
 [2024.08.23-22.30.57:947][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-22.32.15:561][ 98]LogViewport: Scene viewport resized to 1326x540, mode Windowed.
+[2024.08.23-22.32.21:049][634]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.08.23-22.32.21:049][634]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.08.23-22.32.21:050][634]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_0
+[2024.08.23-22.32.21:052][634]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_0
+[2024.08.23-22.32.21:717][701]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.08.23-22.32.21:717][701]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.08.23-22.32.21:719][701]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_UAID_3C7C3FED098A4E1502_1339196399
+[2024.08.23-22.32.21:721][701]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_UAID_3C7C3FED098A4E1502_1339196399
+[2024.08.23-22.32.50:960][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.08.23-22.32.50:962][561]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/F/1C/XLRPCOF50XI9OMOOWIWJSF_Auto1
+[2024.08.23-22.32.50:962][561]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/XLRPCOF50XI9OMOOWIWJSF_Auto1AE4FCDFB4B0ABD25E7BC8983AE70961B.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/F/1C/XLRPCOF50XI9OMOOWIWJSF_Auto1.uasset'
+[2024.08.23-22.32.50:963][561]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.010
+[2024.08.23-22.32.50:963][561]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.010
+[2024.08.23-22.33.31:573][386]Cmd: SELECT NONE
+[2024.08.23-22.33.34:311][649]LogViewport: Scene viewport resized to 932x540, mode Windowed.
+[2024.08.23-22.33.52:145][976]Cmd: TRANSACTION UNDO
+[2024.08.23-22.33.52:145][976]LogEditorTransaction: Undo Foliage Editing
+[2024.08.23-22.34.03:528][719]Cmd: TRANSACTION UNDO
+[2024.08.23-22.34.03:528][719]LogEditorTransaction: Undo Foliage Editing
+[2024.08.23-22.34.04:524][754]Cmd: TRANSACTION UNDO
+[2024.08.23-22.34.04:524][754]LogEditorTransaction: Undo Foliage Editing
+[2024.08.23-22.34.05:255][792]Cmd: TRANSACTION UNDO
+[2024.08.23-22.34.05:255][792]LogEditorTransaction: Undo Foliage Editing
+[2024.08.23-22.34.11:140][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.08.23-22.34.11:142][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-22.34.11:201][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/C/OU/W5PKT3T609ZDGGKXHZLOO1
+[2024.08.23-22.34.11:201][220]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/W5PKT3T609ZDGGKXHZLOO1AC277A0548ACC83DDB36998D7AF34687.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/C/OU/W5PKT3T609ZDGGKXHZLOO1.uasset'
+[2024.08.23-22.34.11:202][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/1C/XLRPCOF50XI9OMOOWIWJSF
+[2024.08.23-22.34.11:203][220]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/XLRPCOF50XI9OMOOWIWJSFED3A898D4D18683A5D4A109A3B1DC47E.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/1C/XLRPCOF50XI9OMOOWIWJSF.uasset'
+[2024.08.23-22.34.11:213][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 442 ms)
+[2024.08.23-22.34.11:216][220]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.23-22.34.11:216][220]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2024.08.23-22.34.11:216][220]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_UAID_3C7C3FED098A4E1502_1339196399
+[2024.08.23-22.34.12:250][323]LogViewport: Scene viewport resized to 1326x540, mode Windowed.
