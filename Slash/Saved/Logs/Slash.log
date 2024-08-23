@@ -2226,3 +2226,830 @@ Script Stack (0 frames) :
 [2024.08.23-20.16.15:787][217]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/Landscape/GoldenDessert_LayerInfo.GoldenDessert_LayerInfo
 [2024.08.23-20.16.15:787][217]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/Landscape/Desert_Sand_LayerInfo.Desert_Sand_LayerInfo
 [2024.08.23-20.16.15:787][217]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/Landscape/BrightDessert_LayerInfo.BrightDessert_LayerInfo
+[2024.08.23-20.17.41:596][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.08.23-20.17.41:598][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60_Auto3
+[2024.08.23-20.17.41:598][719]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/YRAR5EOW1HFM0Q5SVGGB60_Auto30281404B4B22832E3ABD6BBA036468F5.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60_Auto3.uasset'
+[2024.08.23-20.17.41:600][719]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.17.41:610][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH_Auto3
+[2024.08.23-20.17.41:610][719]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/I6U5PPTM92KM0K7SZQOAOH_Auto3770105B147BD07965E14949F10F64F04.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH_Auto3.uasset'
+[2024.08.23-20.17.41:618][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R_Auto3
+[2024.08.23-20.17.41:618][719]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/SQQCXB6K8P9FUH49M5157R_Auto3168A7FC5426B84BFE94F5C8DE293B60F.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R_Auto3.uasset'
+[2024.08.23-20.17.41:627][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2_Auto3
+[2024.08.23-20.17.41:627][719]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/67W6FHDLPYNC0391BRUMB2_Auto3BBFBA87D43CF84BA1509E491C9F967C5.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2_Auto3.uasset'
+[2024.08.23-20.17.41:635][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB_Auto3
+[2024.08.23-20.17.41:635][719]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/AZUED2Q5VVUCN0XLTN3NBB_Auto3AC22A1F94BA6F00BC41656AAA6E858C7.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB_Auto3.uasset'
+[2024.08.23-20.17.41:635][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.046
+[2024.08.23-20.17.41:635][719]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2024.08.23-20.17.57:188][766]LogDerivedDataCache: C:/Users/rodri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.073 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1680 files in 2506 folders with total size 95 MiB.
+[2024.08.23-20.22.14:948][684]Cmd: TRANSACTION UNDO
+[2024.08.23-20.22.14:948][684]LogEditorTransaction: Undo Landscape Editing: Noise
+[2024.08.23-20.22.14:954][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.14:954][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.14:956][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.14:956][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.14:957][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.14:958][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.14:959][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.14:961][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.14:962][684]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:255][884]Cmd: TRANSACTION REDO
+[2024.08.23-20.22.17:255][884]LogEditorTransaction: Redo Landscape Editing: Noise
+[2024.08.23-20.22.17:261][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:262][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:262][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:262][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:263][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:264][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:264][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:264][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:266][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:267][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:268][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:268][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:270][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.17:270][884]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:129][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:130][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:131][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:132][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:133][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:136][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:137][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:138][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:140][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:141][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:142][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:142][419]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:210][424]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:212][424]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:213][424]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.22.22:214][424]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.23.19:539][426]LogAssetEditorSubsystem: Opening Asset editor for LandscapeLayerInfoObject /Game/Landscape/BrightDessert_LayerInfo.BrightDessert_LayerInfo
+[2024.08.23-20.23.22:662][796]LogViewport: Scene viewport resized to 376x470, mode Windowed.
+[2024.08.23-20.23.22:678][797]LogViewport: Scene viewport resized to 376x467, mode Windowed.
+[2024.08.23-20.23.22:720][798]LogViewport: Scene viewport resized to 376x459, mode Windowed.
+[2024.08.23-20.23.22:734][799]LogViewport: Scene viewport resized to 376x457, mode Windowed.
+[2024.08.23-20.23.22:751][800]LogViewport: Scene viewport resized to 376x453, mode Windowed.
+[2024.08.23-20.23.22:768][801]LogViewport: Scene viewport resized to 376x450, mode Windowed.
+[2024.08.23-20.23.22:785][802]LogViewport: Scene viewport resized to 376x446, mode Windowed.
+[2024.08.23-20.23.22:800][803]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.08.23-20.24.19:833][874]LogAssetEditorSubsystem: Opening Asset editor for LandscapeLayerInfoObject /Game/Landscape/BrightDessert_LayerInfo.BrightDessert_LayerInfo
+[2024.08.23-20.24.26:090][621]LogViewport: Scene viewport resized to 376x470, mode Windowed.
+[2024.08.23-20.24.26:109][622]LogViewport: Scene viewport resized to 376x467, mode Windowed.
+[2024.08.23-20.24.26:139][623]LogViewport: Scene viewport resized to 376x460, mode Windowed.
+[2024.08.23-20.24.26:157][624]LogViewport: Scene viewport resized to 376x457, mode Windowed.
+[2024.08.23-20.24.26:174][625]LogViewport: Scene viewport resized to 376x454, mode Windowed.
+[2024.08.23-20.24.26:189][626]LogViewport: Scene viewport resized to 376x451, mode Windowed.
+[2024.08.23-20.24.26:204][627]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2024.08.23-20.24.26:218][628]LogViewport: Scene viewport resized to 376x446, mode Windowed.
+[2024.08.23-20.24.26:233][629]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.08.23-20.24.32:605][354]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.24.32:606][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.23-20.24.32:606][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.23-20.24.32:713][354]LogViewport: Scene viewport resized to 1335x907, mode Windowed.
+[2024.08.23-20.24.32:814][355]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.08.23-20.24.46:100][652]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.23-20.24.56:296][826]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.23-20.25.03:301][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.08.23-20.25.03:304][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-20.25.03:332][661]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60
+[2024.08.23-20.25.03:332][661]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/YRAR5EOW1HFM0Q5SVGGB60A8B159604E3EC3E86D1630AFBB2E9159.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60.uasset'
+[2024.08.23-20.25.03:334][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:335][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:335][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:336][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:337][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:338][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:339][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:347][661]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH
+[2024.08.23-20.25.03:347][661]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/I6U5PPTM92KM0K7SZQOAOH5980BDE349F32C3A3C41F69755719CDA.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH.uasset'
+[2024.08.23-20.25.03:350][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:351][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:351][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:352][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:353][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:354][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:355][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:356][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:364][661]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R
+[2024.08.23-20.25.03:364][661]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/SQQCXB6K8P9FUH49M5157R905563DB4C52702B132FA693AE25CD4B.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R.uasset'
+[2024.08.23-20.25.03:366][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:367][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:367][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:368][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:368][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:369][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:371][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:372][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:379][661]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2
+[2024.08.23-20.25.03:381][661]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/67W6FHDLPYNC0391BRUMB215FD47FB4B736360B0D91DB78EE0122C.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2.uasset'
+[2024.08.23-20.25.03:383][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:385][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:386][661]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.25.03:395][661]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB
+[2024.08.23-20.25.03:395][661]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/AZUED2Q5VVUCN0XLTN3NBB20D4A826429C1B8114DCE3AA9D089AC0.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB.uasset'
+[2024.08.23-20.25.03:421][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.08.23-20.25.03:483][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.08.23-20.25.03:485][661]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.25.03:485][661]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/MI_Bright_Desert_Sand_sjzkfega_27FA33D694A00A173DB95B88E045CE3D6.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.uasset'
+[2024.08.23-20.25.03:494][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 1.30 sec)
+[2024.08.23-20.25.03:498][661]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.23-20.25.03:498][661]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_UAID_3C7C3FED098A051502_1163977558
+[2024.08.23-20.25.03:498][661]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0
+[2024.08.23-20.25.03:498][661]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0
+[2024.08.23-20.25.03:498][661]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0
+[2024.08.23-20.25.03:498][661]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0
+[2024.08.23-20.25.03:498][661]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.25.30:615][543]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.23-20.25.38:785][465]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.23-20.25.44:598][151]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.23-20.25.54:044][243]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.23-20.26.04:123][395]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.23-20.26.15:003][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-20.26.15:052][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.08.23-20.26.15:060][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.08.23-20.26.15:062][692]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.26.15:062][692]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/MI_Bright_Desert_Sand_sjzkfega_2B004B04349E2F2E63BA992AF67D479A5.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.uasset'
+[2024.08.23-20.26.15:071][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.37 sec)
+[2024.08.23-20.26.15:073][692]AssetCheck: New page: Asset Save: MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.26.15:073][692]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.26.49:260][666]LogShaderCompilers: Display: ================================================
+[2024.08.23-20.26.49:260][666]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.23-20.26.49:260][666]LogShaderCompilers: Display: Total job queries 696, among them cache hits 420 (60.34%)
+[2024.08.23-20.26.49:260][666]LogShaderCompilers: Display: Tracking 271 distinct input hashes that result in 29 distinct outputs (10.70%)
+[2024.08.23-20.26.49:260][666]LogShaderCompilers: Display: RAM used: 5.13 MiB of 3.20 GiB budget. Usage: 0.16%
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Shaders Compiled: 271
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Jobs assigned 276, completed 271 (98.19%)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Average time worker was idle: 54.62 s
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 0.91 s
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Job execution time: average 0.49 s, max 1.22 s
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 1.37
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.72 s
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Jobs were issued in 276 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Average processing rate: 13.74 jobs/sec
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Total thread time: 104.017 s
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Total thread preprocess time: 4.709 s
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Percentage time preprocessing: 4.53%
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Effective parallelization: 5.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  103 times, average 0.43 sec, max 0.53 sec, min 0.34 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 42.12% of total time (compiled  103 times, average 0.43 sec, max 0.53 sec, min 0.34 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.55% of total time (compiled  103 times, average 0.39 sec, max 0.49 sec, min 0.31 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.93% of total time (compiled   25 times, average 0.33 sec, max 0.41 sec, min 0.28 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.22% of total time (compiled   25 times, average 0.26 sec, max 0.30 sec, min 0.22 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.68% of total time (compiled    2 times, average 0.35 sec, max 0.48 sec, min 0.22 sec)
+[2024.08.23-20.26.49:261][666]LogShaderCompilers: Display: ================================================
+[2024.08.23-20.26.52:240][  8]Cmd: TRANSACTION UNDO
+[2024.08.23-20.26.52:240][  8]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.26.52:243][  8]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.26.52:245][  8]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: ================================================
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Total job queries 708, among them cache hits 420 (59.32%)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Tracking 280 distinct input hashes that result in 32 distinct outputs (11.43%)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: RAM used: 5.28 MiB of 3.20 GiB budget. Usage: 0.16%
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Shaders Compiled: 280
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Jobs assigned 288, completed 280 (97.22%)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Average time worker was idle: 95.34 s
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 0.91 s
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 1.68 s
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 1.72
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.75 s
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Jobs were issued in 288 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Average processing rate: 13.49 jobs/sec
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Total thread time: 108.318 s
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Total thread preprocess time: 6.242 s
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Percentage time preprocessing: 5.76%
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Effective parallelization: 5.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    2 times, average 0.43 sec, max 0.57 sec, min 0.30 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  104 times, average 0.43 sec, max 0.80 sec, min 0.34 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.19% of total time (compiled  104 times, average 0.43 sec, max 0.80 sec, min 0.34 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 37.61% of total time (compiled  104 times, average 0.39 sec, max 0.64 sec, min 0.31 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.15% of total time (compiled   26 times, average 0.34 sec, max 0.57 sec, min 0.28 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.05% of total time (compiled   28 times, average 0.27 sec, max 0.51 sec, min 0.22 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 1.17% of total time (compiled    4 times, average 0.32 sec, max 0.48 sec, min 0.22 sec)
+[2024.08.23-20.33.31:566][366]LogShaderCompilers: Display: ================================================
+[2024.08.23-20.33.37:892][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.08.23-20.33.37:895][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-20.33.37:929][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:930][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:931][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:941][ 48]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH
+[2024.08.23-20.33.37:941][ 48]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/I6U5PPTM92KM0K7SZQOAOH7C4776AE4FAFB7B1D1141D814CF3EE91.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH.uasset'
+[2024.08.23-20.33.37:943][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:943][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:952][ 48]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R
+[2024.08.23-20.33.37:952][ 48]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/SQQCXB6K8P9FUH49M5157R9A8E8600410D74133371829D26064674.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R.uasset'
+[2024.08.23-20.33.37:954][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:955][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:956][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:966][ 48]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2
+[2024.08.23-20.33.37:966][ 48]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/67W6FHDLPYNC0391BRUMB22FEEB6B04A9B1B0109BC1389CF37DF67.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2.uasset'
+[2024.08.23-20.33.37:968][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:969][ 48]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.37:978][ 48]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB
+[2024.08.23-20.33.37:978][ 48]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/AZUED2Q5VVUCN0XLTN3NBB34D5BF2E4281F51C2FC3419858A5CA1C.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB.uasset'
+[2024.08.23-20.33.37:980][ 48]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.33.37:980][ 48]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/MI_Bright_Desert_Sand_sjzkfega_2473708104CD2627C9197E0BB4447E0B4.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.uasset'
+[2024.08.23-20.33.37:988][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.46 sec)
+[2024.08.23-20.33.37:991][ 48]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.23-20.33.37:991][ 48]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0
+[2024.08.23-20.33.37:991][ 48]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0
+[2024.08.23-20.33.37:991][ 48]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0
+[2024.08.23-20.33.37:991][ 48]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0
+[2024.08.23-20.33.37:991][ 48]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.33.47:775][216]Cmd: TRANSACTION UNDO
+[2024.08.23-20.33.47:775][216]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.33.47:779][216]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.47:779][216]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.47:780][216]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.47:780][216]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.47:782][216]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.47:783][216]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.33.56:372][168]Cmd: TRANSACTION UNDO
+[2024.08.23-20.33.56:372][168]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.10:176][444]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.10:176][444]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.10:183][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:183][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:184][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:185][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:185][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:186][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:187][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:187][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:188][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:189][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:190][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:190][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:191][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:192][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:192][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:193][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:194][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:195][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_9 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:195][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:196][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:197][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:197][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:198][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:199][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:199][444]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.10:776][478]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.10:776][478]LogEditorTransaction: Undo Set Layer Alpha
+[2024.08.23-20.36.11:250][523]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.11:250][523]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.11:261][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:261][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:262][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:263][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:265][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:266][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:268][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:269][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:271][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:273][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:273][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_9 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:274][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:275][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:276][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:277][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:277][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:278][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:279][523]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:650][555]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.11:650][555]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.11:656][555]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:657][555]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:658][555]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:659][555]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:661][555]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.11:662][555]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.12:099][595]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.12:099][595]LogEditorTransaction: Undo Set Layer Alpha
+[2024.08.23-20.36.12:508][631]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.12:508][631]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.12:515][631]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.12:516][631]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.12:516][631]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.12:517][631]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:638][870]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.14:638][870]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.14:646][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:647][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:648][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:649][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:650][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:651][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:651][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:652][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:653][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:654][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:654][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:655][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:656][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.14:657][870]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:105][889]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.15:105][889]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.15:111][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:111][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:113][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:114][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:114][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:115][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:116][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:117][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:118][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:119][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:120][889]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:504][920]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.15:504][920]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.15:508][920]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:509][920]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:510][920]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.15:912][956]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.15:912][956]LogEditorTransaction: Undo Set Layer Alpha
+[2024.08.23-20.36.16:305][991]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.16:305][991]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.16:312][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:313][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:314][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:315][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:315][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:317][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:317][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:318][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:319][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:320][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:321][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.16:322][991]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.18:914][291]Cmd: TRANSACTION REDO
+[2024.08.23-20.36.18:915][291]LogEditorTransaction: Redo Landscape Editing: Paint
+[2024.08.23-20.36.19:781][357]Cmd: TRANSACTION REDO
+[2024.08.23-20.36.19:781][357]LogEditorTransaction: Redo Set Layer Alpha
+[2024.08.23-20.36.27:651][288]Cmd: TRANSACTION REDO
+[2024.08.23-20.36.27:651][288]LogEditorTransaction: Redo Landscape Editing: Paint
+[2024.08.23-20.36.30:310][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.08.23-20.36.30:313][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-20.36.30:344][571]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60
+[2024.08.23-20.36.30:344][571]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/YRAR5EOW1HFM0Q5SVGGB60F1F3C75148C4CF60715709BDF5697D8D.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60.uasset'
+[2024.08.23-20.36.30:355][571]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH
+[2024.08.23-20.36.30:355][571]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/I6U5PPTM92KM0K7SZQOAOH01BEAACA4CF399DBDEF47784714E343E.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH.uasset'
+[2024.08.23-20.36.30:367][571]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R
+[2024.08.23-20.36.30:367][571]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/SQQCXB6K8P9FUH49M5157R33FDE1E04B800B36B35864B16B3C6842.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R.uasset'
+[2024.08.23-20.36.30:377][571]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2
+[2024.08.23-20.36.30:378][571]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/67W6FHDLPYNC0391BRUMB29395424249239AC074A7E2803B374987.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2.uasset'
+[2024.08.23-20.36.30:388][571]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB
+[2024.08.23-20.36.30:389][571]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/AZUED2Q5VVUCN0XLTN3NBB6A0FBCD74315C6B26171D68A04190C3C.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB.uasset'
+[2024.08.23-20.36.30:390][571]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.36.30:390][571]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/MI_Bright_Desert_Sand_sjzkfega_2C3EE84444CE1C876672F3B85A9875637.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.uasset'
+[2024.08.23-20.36.30:405][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.55 sec)
+[2024.08.23-20.36.30:407][571]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.23-20.36.30:407][571]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_UAID_3C7C3FED098A051502_1163977558
+[2024.08.23-20.36.30:407][571]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0
+[2024.08.23-20.36.30:407][571]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0
+[2024.08.23-20.36.30:407][571]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0
+[2024.08.23-20.36.30:407][571]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0
+[2024.08.23-20.36.30:408][571]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: ================================================
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Total job queries 757, among them cache hits 421 (55.61%)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Tracking 334 distinct input hashes that result in 37 distinct outputs (11.08%)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: RAM used: 6.31 MiB of 3.20 GiB budget. Usage: 0.19%
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Shaders Compiled: 334
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Jobs assigned 336, completed 334 (99.40%)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Average time worker was idle: 87.20 s
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 0.91 s
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 1.68 s
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 1.72
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.67 s
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Jobs were issued in 336 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Average processing rate: 13.01 jobs/sec
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Total thread time: 126.29 s
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Total thread preprocess time: 6.976 s
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Percentage time preprocessing: 5.52%
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Effective parallelization: 4.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  113 times, average 0.43 sec, max 0.80 sec, min 0.34 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.49% of total time (compiled  113 times, average 0.43 sec, max 0.80 sec, min 0.34 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 35.02% of total time (compiled  113 times, average 0.39 sec, max 0.64 sec, min 0.31 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.69% of total time (compiled   36 times, average 0.34 sec, max 0.57 sec, min 0.28 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.68% of total time (compiled   36 times, average 0.27 sec, max 0.51 sec, min 0.22 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 3.25% of total time (compiled   12 times, average 0.34 sec, max 0.57 sec, min 0.27 sec)
+[2024.08.23-20.36.40:689][736]LogShaderCompilers: Display: ================================================
+[2024.08.23-20.36.45:329][239]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.45:329][239]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.45:345][239]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.45:346][239]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.36.47:398][402]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.47:399][402]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.57:295][553]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.57:295][553]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.57:985][591]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.57:985][591]LogEditorTransaction: Undo Set Layer Alpha
+[2024.08.23-20.36.58:583][642]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.58:583][642]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.36.59:338][708]Cmd: TRANSACTION UNDO
+[2024.08.23-20.36.59:338][708]LogEditorTransaction: Undo Set Layer Alpha
+[2024.08.23-20.37.20:880][109]Cmd: TRANSACTION UNDO
+[2024.08.23-20.37.20:880][109]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.37.21:473][135]Cmd: TRANSACTION UNDO
+[2024.08.23-20.37.21:473][135]LogEditorTransaction: Undo Set Layer Alpha
+[2024.08.23-20.37.22:115][196]Cmd: TRANSACTION UNDO
+[2024.08.23-20.37.22:115][196]LogEditorTransaction: Undo Set Layer Alpha
+[2024.08.23-20.37.22:987][282]Cmd: TRANSACTION UNDO
+[2024.08.23-20.37.22:987][282]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.37.24:407][425]Cmd: TRANSACTION UNDO
+[2024.08.23-20.37.24:407][425]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.37.24:421][425]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:421][425]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:423][425]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:423][425]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:424][425]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:424][425]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:426][425]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:427][425]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:932][450]Cmd: TRANSACTION UNDO
+[2024.08.23-20.37.24:932][450]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.37.24:944][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:945][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:945][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:946][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:947][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:948][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:949][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:949][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:951][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:952][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:953][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:954][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:955][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.24:955][450]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.37.27:019][673]Cmd: TRANSACTION REDO
+[2024.08.23-20.37.27:019][673]LogEditorTransaction: Redo Landscape Editing: Paint
+[2024.08.23-20.37.28:798][863]Cmd: TRANSACTION REDO
+[2024.08.23-20.37.28:798][863]LogEditorTransaction: Redo Landscape Editing: Paint
+[2024.08.23-20.37.35:405][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.08.23-20.37.35:407][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-20.37.35:434][551]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60
+[2024.08.23-20.37.35:434][551]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/YRAR5EOW1HFM0Q5SVGGB604343CEBA4AB17BB01C0671A878D40B6C.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60.uasset'
+[2024.08.23-20.37.35:445][551]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH
+[2024.08.23-20.37.35:445][551]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/I6U5PPTM92KM0K7SZQOAOH75F52EFC4237564C494274A42F3529C4.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH.uasset'
+[2024.08.23-20.37.35:457][551]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R
+[2024.08.23-20.37.35:457][551]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/SQQCXB6K8P9FUH49M5157R37400DB340F2C5DCEE8C1C9D60C1D460.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R.uasset'
+[2024.08.23-20.37.35:467][551]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2
+[2024.08.23-20.37.35:467][551]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/67W6FHDLPYNC0391BRUMB2B166689B456B457F27FD7D80719BD56A.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2.uasset'
+[2024.08.23-20.37.35:479][551]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB
+[2024.08.23-20.37.35:479][551]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/AZUED2Q5VVUCN0XLTN3NBBF72050424A86E09B0515AE82D2EBC593.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB.uasset'
+[2024.08.23-20.37.35:480][551]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.37.35:481][551]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/MI_Bright_Desert_Sand_sjzkfega_292065C52445CCAC4BB88AF9816DCCF6C.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.uasset'
+[2024.08.23-20.37.35:490][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.64 sec)
+[2024.08.23-20.37.35:493][551]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.23-20.37.35:493][551]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_UAID_3C7C3FED098A051502_1163977558
+[2024.08.23-20.37.35:493][551]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0
+[2024.08.23-20.37.35:493][551]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0
+[2024.08.23-20.37.35:493][551]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0
+[2024.08.23-20.37.35:493][551]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0
+[2024.08.23-20.37.35:493][551]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.MI_Bright_Desert_Sand_sjzkfega_2K
+[2024.08.23-20.37.39:127][983]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.23-20.38.35:029][ 19]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Mossy_Ground_vi1qccumw/T_MossyGround_vi1qccumw_2K_ORDp.T_MossyGround_vi1qccumw_2K_ORDp (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 346.145823 MB), EncodeSpeed: Fast
+[2024.08.23-20.38.35:034][ 20]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Mossy_Ground_vi1qccumw/T_Mossy_Ground_vi1qccumw_2K_N.T_Mossy_Ground_vi1qccumw_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2024.08.23-20.38.35:068][ 22]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Mossy_Ground_vi1qccumw/T_Mossy_Ground_vi1qccumw_2K_D.T_Mossy_Ground_vi1qccumw_2K_D (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 346.145823 MB), EncodeSpeed: Fast
+[2024.08.23-20.38.47:149][408]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.38.47:149][408]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.38.47:149][408]MaterialEditorStats: Shader Count: 0
+[2024.08.23-20.38.47:190][410]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.38.47:190][410]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.38.47:190][410]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.38.47:190][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.38.47:190][410]MaterialEditorStats: Shader Count: 4
+[2024.08.23-20.38.51:165][883]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.38.51:165][883]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.38.51:165][883]MaterialEditorStats: Shader Count: 0
+[2024.08.23-20.38.51:206][885]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.38.51:206][885]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.38.51:206][885]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.38.51:206][885]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.38.51:206][885]MaterialEditorStats: Shader Count: 4
+[2024.08.23-20.38.57:427][624]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.38.57:427][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.38.57:427][624]MaterialEditorStats: Shader Count: 0
+[2024.08.23-20.38.57:471][626]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.38.57:471][626]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.38.57:471][626]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.38.57:471][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.38.57:471][626]MaterialEditorStats: Shader Count: 4
+[2024.08.23-20.39.02:596][238]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.02:596][238]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.02:596][238]MaterialEditorStats: Shader Count: 0
+[2024.08.23-20.39.02:638][240]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.39.02:638][240]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.02:638][240]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.39.02:638][240]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.02:638][240]MaterialEditorStats: Shader Count: 4
+[2024.08.23-20.39.13:515][515]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.13:515][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.13:515][515]MaterialEditorStats: Shader Count: 0
+[2024.08.23-20.39.14:022][564]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.14:022][564]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.14:022][564]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.14:022][564]MaterialEditorStats: Shader Count: 3
+[2024.08.23-20.39.14:130][575]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.39.14:130][575]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.14:130][575]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.39.14:130][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.14:130][575]MaterialEditorStats: Shader Count: 4
+[2024.08.23-20.39.15:906][760]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.15:907][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.15:907][760]MaterialEditorStats: Shader Count: 0
+[2024.08.23-20.39.16:328][800]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.16:328][800]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.16:328][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.16:328][800]MaterialEditorStats: Shader Count: 3
+[2024.08.23-20.39.16:457][813]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.39.16:457][813]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.16:457][813]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.39.16:457][813]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.16:457][813]MaterialEditorStats: Shader Count: 4
+[2024.08.23-20.39.21:487][398]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.21:487][398]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.21:487][398]MaterialEditorStats: Shader Count: 0
+[2024.08.23-20.39.21:514][400]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.39.21:514][400]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.21:514][400]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.39.21:514][400]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.21:514][400]MaterialEditorStats: Shader Count: 4
+[2024.08.23-20.39.24:800][784]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.24:800][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.24:800][784]MaterialEditorStats: Shader Count: 0
+[2024.08.23-20.39.24:822][786]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.39.24:822][786]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.24:822][786]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.39.24:822][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.24:822][786]MaterialEditorStats: Shader Count: 4
+[2024.08.23-20.39.28:261][192]LogMaterialEditor: Applying material M_Landscape
+[2024.08.23-20.39.28:579][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.08.23-20.39.29:363][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.08.23-20.39.29:384][192]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.29:384][192]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.29:384][192]MaterialEditorStats: Shader Count: 2
+[2024.08.23-20.39.30:969][337]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.30:969][337]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.23-20.39.30:969][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.30:969][337]MaterialEditorStats: Shader Count: 5
+[2024.08.23-20.39.31:075][343]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.39.31:075][343]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.31:075][343]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.23-20.39.31:075][343]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.31:075][343]MaterialEditorStats: Shader Count: 6
+[2024.08.23-20.39.31:875][433]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.08.23-20.39.31:875][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.23-20.39.31:887][433]LogViewport: Scene viewport resized to 376x469, mode Windowed.
+[2024.08.23-20.39.31:904][434]LogViewport: Scene viewport resized to 376x466, mode Windowed.
+[2024.08.23-20.39.31:937][435]LogViewport: Scene viewport resized to 376x460, mode Windowed.
+[2024.08.23-20.39.31:954][436]LogViewport: Scene viewport resized to 376x456, mode Windowed.
+[2024.08.23-20.39.31:973][437]LogViewport: Scene viewport resized to 376x452, mode Windowed.
+[2024.08.23-20.39.31:990][438]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2024.08.23-20.39.32:006][439]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2024.08.23-20.39.32:021][440]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.08.23-20.39.40:161][ 44]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2024.08.23-20.39.40:193][ 45]LogAutomationController: Ignoring very large delta of 3.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.08.23-20.39.42:394][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: ================================================
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Total job queries 918, among them cache hits 472 (51.42%)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Tracking 446 distinct input hashes that result in 37 distinct outputs (8.30%)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: RAM used: 8.51 MiB of 3.20 GiB budget. Usage: 0.26%
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Shaders Compiled: 446
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Jobs assigned 446, completed 446 (100.00%)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Average time worker was idle: 70.67 s
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 1.17 s
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Job execution time: average 0.49 s, max 1.68 s
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 1.72
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.61 s
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Jobs were issued in 446 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Average processing rate: 14.11 jobs/sec
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Total thread time: 168.375 s
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Total thread preprocess time: 8.806 s
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Percentage time preprocessing: 5.23%
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Effective parallelization: 5.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  145 times, average 0.43 sec, max 0.80 sec, min 0.34 sec)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.41 sec)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.41 sec, max 0.41 sec, min 0.40 sec)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 37.13% of total time (compiled  145 times, average 0.43 sec, max 0.80 sec, min 0.34 sec)
+[2024.08.23-20.39.43:026][305]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 33.93% of total time (compiled  145 times, average 0.39 sec, max 0.64 sec, min 0.31 sec)
+[2024.08.23-20.39.43:027][305]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.13% of total time (compiled   50 times, average 0.34 sec, max 0.57 sec, min 0.28 sec)
+[2024.08.23-20.39.43:027][305]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.97% of total time (compiled   50 times, average 0.27 sec, max 0.51 sec, min 0.22 sec)
+[2024.08.23-20.39.43:027][305]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 3.31% of total time (compiled   16 times, average 0.35 sec, max 0.57 sec, min 0.27 sec)
+[2024.08.23-20.39.43:027][305]LogShaderCompilers: Display: ================================================
+[2024.08.23-20.39.43:043][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape/M_Landscape" FILE="../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Landscape/M_Landscape.uasset" SILENT=true
+[2024.08.23-20.39.43:045][305]LogSavePackage: Moving output files for package: /Game/Landscape/M_Landscape
+[2024.08.23-20.39.43:046][305]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/M_Landscape69D1EE9040EC49F4E6627A9FB7EF2402.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Landscape/M_Landscape.uasset'
+[2024.08.23-20.39.43:047][305]LogSavePackage: Moving output files for package: /Game/Landscape/Mountain_LayerInfo
+[2024.08.23-20.39.43:047][305]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Mountain_LayerInfo423475234F8D360EEFF366BB2FEB90F9.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Landscape/Mountain_LayerInfo.uasset'
+[2024.08.23-20.39.43:055][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 662 ms (total: 2.30 sec)
+[2024.08.23-20.39.43:063][305]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.23-20.39.43:063][305]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Landscape/M_Landscape.M_Landscape
+[2024.08.23-20.39.43:063][305]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/Landscape/Mountain_LayerInfo.Mountain_LayerInfo
+[2024.08.23-20.39.43:065][305]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.08.23-20.39.43:065][305]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.08.23-20.39.43:065][305]MaterialEditorStats: MaxSampler: 258 instructions
+[2024.08.23-20.39.43:065][305]MaterialEditorStats: Texture samplers: 5/16
+[2024.08.23-20.39.43:065][305]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.23-20.39.43:065][305]MaterialEditorStats: Shader Count: 16
+[2024.08.23-20.40.40:927][594]Cmd: TRANSACTION UNDO
+[2024.08.23-20.40.40:927][594]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.40.40:929][594]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.40.40:929][594]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.40.41:451][621]Cmd: TRANSACTION UNDO
+[2024.08.23-20.40.41:451][621]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.40.41:453][621]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.40.41:898][666]Cmd: TRANSACTION UNDO
+[2024.08.23-20.40.41:898][666]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.40.41:911][666]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.41.03:920][ 67]Cmd: TRANSACTION UNDO
+[2024.08.23-20.41.03:920][ 67]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.41.03:923][ 67]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.42.33:522][903]Cmd: TRANSACTION UNDO
+[2024.08.23-20.42.33:522][903]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.08.23-20.42.33:525][903]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.42.33:526][903]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:153][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.08.23-20.43.11:156][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-20.43.11:190][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60
+[2024.08.23-20.43.11:190][224]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/YRAR5EOW1HFM0Q5SVGGB604127EE8849F42BCD4260A78B59A39BD5.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60.uasset'
+[2024.08.23-20.43.11:192][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:193][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:194][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:206][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH
+[2024.08.23-20.43.11:206][224]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/I6U5PPTM92KM0K7SZQOAOH5B2C43FB42ACB910A1A7A6A7C0727639.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH.uasset'
+[2024.08.23-20.43.11:208][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:209][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:210][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:220][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R
+[2024.08.23-20.43.11:220][224]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/SQQCXB6K8P9FUH49M5157R99F77FC145371F16EAD6578A1D05EC4B.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R.uasset'
+[2024.08.23-20.43.11:221][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:223][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:223][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:235][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2
+[2024.08.23-20.43.11:236][224]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/67W6FHDLPYNC0391BRUMB231BEAE434099D467301C2FA6EB325EF0.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2.uasset'
+[2024.08.23-20.43.11:237][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:238][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:239][224]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.43.11:249][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB
+[2024.08.23-20.43.11:250][224]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/AZUED2Q5VVUCN0XLTN3NBBD483C2464407FA8D59F16BA26F38246E.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB.uasset'
+[2024.08.23-20.43.11:262][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.40 sec)
+[2024.08.23-20.43.11:265][224]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.23-20.43.11:265][224]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_UAID_3C7C3FED098A051502_1163977558
+[2024.08.23-20.43.11:265][224]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0
+[2024.08.23-20.43.11:265][224]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0
+[2024.08.23-20.43.11:265][224]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0
+[2024.08.23-20.43.11:265][224]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0
+[2024.08.23-20.44.23:431][272]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.23-20.44.23:436][272]LogContentBundle: [SlashOpenWorld(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.23-20.44.23:441][272]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.23-20.44.23:441][272]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.23-20.44.23:441][272]LogWorldPartition: Display: GetPartitionedActors took 77 us
+[2024.08.23-20.44.23:521][272]LogWorldPartition: Display: GenerateStreaming took 80 ms
+[2024.08.23-20.44.23:524][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.23-20.44.23:525][272]PIE: New page: PIE session: SlashOpenWorld (Aug 23, 2024, 9:44:23 AM)
+[2024.08.23-20.44.23:529][272]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.08.23-20.44.23:529][272]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.08.23-20.44.23:529][272]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2024.08.23-20.44.23:542][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012790s)
+[2024.08.23-20.44.23:542][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.012858s)
+[2024.08.23-20.44.23:542][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.23-20.44.23:542][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.23-20.44.23:542][272]LogAIModule: Creating AISystem for world SlashOpenWorld
+[2024.08.23-20.44.23:543][272]LogWorldPartition: ULevel::OnLevelLoaded(SlashOpenWorld)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.23-20.44.23:543][272]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.23-20.44.23:543][272]LogWorldPartition: UWorldPartition::Initialize(Asset=SlashOpenWorld, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.23-20.44.23:545][272]LogContentBundle: [SlashOpenWorld(Standalone)] Creating new contrainer.
+[2024.08.23-20.44.23:546][272]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 233 ms)
+[2024.08.23-20.44.23:546][272]LogPlayLevel: PIE: World Init took: (0.003798s)
+[2024.08.23-20.44.23:553][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.08.23-20.44.23:556][272]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.08.23-20.44.23:556][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.23-20.44.23:556][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.23-20.44.23:556][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.23-20.44.23:556][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.23-20.44.23:556][272]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.23-20.44.23:556][272]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.23-20.44.23:556][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.23-20.44.23:556][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.23-20.44.23:557][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.23-20.44.23:557][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.23-20.44.23:557][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.23-20.44.23:558][272]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.23-20.44.23:593][272]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2024.08.23-20.44.23:593][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.23-20.44.23:593][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.23-20.44.23:593][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.23-20.44.23:594][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.08.23-20.44.23:594][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.08.23-20.44.23:595][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.08.23-20.44.23:595][272]LogInit: FAudioDevice initialized with ID 2.
+[2024.08.23-20.44.23:595][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.08.23-20.44.23:595][272]LogAudio: Display: Audio Device (ID: 2) registered with world 'SlashOpenWorld'.
+[2024.08.23-20.44.23:595][272]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.23-20.44.23:598][272]LogLoad: Game class is 'GameModeBase'
+[2024.08.23-20.44.23:598][272]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2024.08.23-14.44.23
+[2024.08.23-20.44.23:598][272]LogWorld: Bringing up level for play took: 0.000369
+[2024.08.23-20.44.23:600][272]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.08.23-20.44.23:605][272]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(23), CellsToLoad(0), CellsToUnload(0)
+[2024.08.23-20.44.23:605][272]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=6752.773 Y=3421.313 Z=5305.672,P=-0.000000 Y=-175.800003 R=0.000000
+[2024.08.23-20.44.23:606][272]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair being ready before playing
+[2024.08.23-20.44.23:613][272]LogStreaming: Display: FlushAsyncLoading(-1): 19 QueuedPackages, 0 AsyncPackages
+[2024.08.23-20.44.23:832][272]PIE: Server logged in
+[2024.08.23-20.44.23:833][272]PIE: Play in editor total start time 0.397 seconds.
+[2024.08.23-20.44.30:081][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.23-20.44.30:081][824]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2024.08.23-20.44.30:086][824]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2024.08.23-20.44.30:086][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.23-20.44.30:086][824]LogContentBundle: [SlashOpenWorld(Standalone)] Deleting container.
+[2024.08.23-20.44.30:090][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.23-20.44.30:093][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.23-20.44.30:104][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.23-20.44.30:104][824]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.23-20.44.30:104][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.23-20.44.30:106][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.23-20.44.30:110][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.23-20.44.30:115][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.08.23-20.44.30:184][827]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.08.23-20.44.55:674][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.08.23-20.44.55:677][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60_Auto4
+[2024.08.23-20.44.55:677][995]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/YRAR5EOW1HFM0Q5SVGGB60_Auto45C3097DC4EC710E664064297F53DE3D4.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60_Auto4.uasset'
+[2024.08.23-20.44.55:679][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:679][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:680][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:691][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH_Auto4
+[2024.08.23-20.44.55:691][995]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/I6U5PPTM92KM0K7SZQOAOH_Auto4864C38E24EACF2F5C378B0B48047C583.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH_Auto4.uasset'
+[2024.08.23-20.44.55:693][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:694][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:695][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:704][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R_Auto4
+[2024.08.23-20.44.55:704][995]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/SQQCXB6K8P9FUH49M5157R_Auto4FC701542484AB213D594F0957CB527C8.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R_Auto4.uasset'
+[2024.08.23-20.44.55:714][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2_Auto4
+[2024.08.23-20.44.55:714][995]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/67W6FHDLPYNC0391BRUMB2_Auto49D24F3A3470A6843A0529E830C967A26.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2_Auto4.uasset'
+[2024.08.23-20.44.55:716][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:717][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:718][995]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.08.23-20.44.55:728][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB_Auto4
+[2024.08.23-20.44.55:728][995]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/AZUED2Q5VVUCN0XLTN3NBB_Auto48CD7331242D3475DC6A31BAE392557D0.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB_Auto4.uasset'
+[2024.08.23-20.44.55:728][995]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.062
+[2024.08.23-20.44.55:728][995]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2024.08.23-20.44.57:547][136]LogViewport: Scene viewport resized to 760x309, mode Windowed.
+[2024.08.23-20.44.57:560][136]LogViewport: Scene viewport resized to 761x309, mode Windowed.
+[2024.08.23-20.44.57:616][136]LogViewport: Scene viewport resized to 761x308, mode Windowed.
+[2024.08.23-20.44.57:641][136]LogViewport: Scene viewport resized to 1699x803, mode Windowed.
+[2024.08.23-20.44.57:676][137]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2024.08.23-20.45.01:102][452]LogViewport: Scene viewport resized to 1781x887, mode Windowed.
+[2024.08.23-20.45.01:120][453]LogViewport: Scene viewport resized to 1708x812, mode Windowed.
+[2024.08.23-20.45.01:154][454]LogViewport: Scene viewport resized to 1611x711, mode Windowed.
+[2024.08.23-20.45.01:188][455]LogViewport: Scene viewport resized to 1557x655, mode Windowed.
+[2024.08.23-20.45.01:221][456]LogViewport: Scene viewport resized to 1533x630, mode Windowed.
+[2024.08.23-20.45.01:276][457]LogViewport: Scene viewport resized to 1526x622, mode Windowed.
+[2024.08.23-20.45.14:250][433]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-20.45.22:791][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.08.23-20.45.22:796][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.23-20.45.22:833][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60
+[2024.08.23-20.45.22:833][384]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/YRAR5EOW1HFM0Q5SVGGB6095A14DB24AD08CE7FDF2C8853F2D6980.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/B/A5/YRAR5EOW1HFM0Q5SVGGB60.uasset'
+[2024.08.23-20.45.22:845][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH
+[2024.08.23-20.45.22:845][384]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/I6U5PPTM92KM0K7SZQOAOH085CD3ED4D271921D1F45D878C5CBFA3.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/1/0C/I6U5PPTM92KM0K7SZQOAOH.uasset'
+[2024.08.23-20.45.22:856][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R
+[2024.08.23-20.45.22:857][384]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/SQQCXB6K8P9FUH49M5157R5FF37AF24ACD105F4C2F6AA765C524DB.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/2/YM/SQQCXB6K8P9FUH49M5157R.uasset'
+[2024.08.23-20.45.22:869][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2
+[2024.08.23-20.45.22:869][384]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/67W6FHDLPYNC0391BRUMB22FDE844A40084EB57328BC8149A915C0.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/9/1C/67W6FHDLPYNC0391BRUMB2.uasset'
+[2024.08.23-20.45.22:881][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB
+[2024.08.23-20.45.22:881][384]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/AZUED2Q5VVUCN0XLTN3NBBDBB9D3B642BAAABECD996DBC2E6FB0CE.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/09/AZUED2Q5VVUCN0XLTN3NBB.uasset'
+[2024.08.23-20.45.22:889][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.50 sec)
+[2024.08.23-20.45.22:894][384]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.23-20.45.22:894][384]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_UAID_3C7C3FED098A051502_1163977558
+[2024.08.23-20.45.22:894][384]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_8_0
+[2024.08.23-20.45.22:894][384]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_7_7_0
+[2024.08.23-20.45.22:894][384]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0
+[2024.08.23-20.45.22:894][384]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0
+[2024.08.23-20.45.22:901][384]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
