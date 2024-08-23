@@ -3053,3 +3053,28 @@ Script Stack (0 frames) :
 [2024.08.23-20.45.22:894][384]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_8_0
 [2024.08.23-20.45.22:894][384]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.LandscapeStreamingProxy_7A8SH8MXU3UYII4SKJCDFKPH1_126_8_7_0
 [2024.08.23-20.45.22:901][384]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-20.45.43:545][871]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-20.45.43:809][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-20.45.43:906][904]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-20.45.44:909][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-20.45.46:856][186]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-20.45.52:556][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.08.23-20.45.55:997][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.08.23-20.45.55:997][948]Can't find target element.
+[2024.08.23-20.45.58:634][235]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.08.23-20.45.58:635][235]Can't find target element.
+[2024.08.23-20.46.50:951][ 93]Cmd: DELETE
+[2024.08.23-20.46.50:951][ 93]Cmd: ACTOR DELETE
+[2024.08.23-20.46.52:765][270]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.23-20.47.07:097][586]LogViewport: Scene viewport resized to 1717x821, mode Windowed.
+[2024.08.23-20.47.07:114][587]LogViewport: Scene viewport resized to 1797x904, mode Windowed.
+[2024.08.23-20.47.07:149][588]LogViewport: Scene viewport resized to 1883x993, mode Windowed.
+[2024.08.23-20.47.07:182][589]LogViewport: Scene viewport resized to 1915x1027, mode Windowed.
+[2024.08.23-20.47.07:217][590]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2024.08.23-20.47.52:949][657]Cmd: STAT FPS
+[2024.08.23-20.47.56:836][ 19]Cmd: STAT FPS
+[2024.08.23-20.48.03:878][536]LogCore: Display: Tracing Screenshot "HighresScreenshot00004" taken with size: 1920 x 1032
+[2024.08.23-20.48.04:102][537]LogClient: High resolution screenshot saved as E:/Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Screenshots/WindowsEditor/HighresScreenshot00004.png
+[2024.08.23-20.48.07:860][783]Cmd: r.ResetRenderTargetsExtent
+[2024.08.23-20.48.07:860][783]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2024.08.23-20.48.07:860][783]LogSlate: Window 'High Resolution Screenshot' being destroyed
