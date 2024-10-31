@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Slash",
+			"Path": "E:\\Unreal Projects\\Git-Hub Projects\\Unreal-Engine-Workshop-1\\Slash\\Source\\Slash.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SlashEditor",
+			"Path": "E:\\Unreal Projects\\Git-Hub Projects\\Unreal-Engine-Workshop-1\\Slash\\Source\\SlashEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

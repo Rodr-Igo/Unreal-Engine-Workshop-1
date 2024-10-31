@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Slash.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Slash.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SlashEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Source\Slash">
+      <UniqueIdentifier>{94A1D0C1-5657-3A5A-9815-7671CFEA4C0F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Slash\Slash.Build.cs">
+      <Filter>Source\Slash</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Slash\Slash.cpp">
+      <Filter>Source\Slash</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Slash\Slash.h">
+      <Filter>Source\Slash</Filter>
+    </ClInclude>
+    <Filter Include="Source\Slash\Private">
+      <UniqueIdentifier>{C7B26820-BE6D-3F40-AEDA-61C93AD7A93B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash\Private\Item.cpp">
+      <Filter>Source\Slash\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Slash\Public">
+      <UniqueIdentifier>{C8A49F26-1F9B-35D4-8F2E-DBB7BA8DBEC9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Slash\Public\Item.h">
+      <Filter>Source\Slash\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
