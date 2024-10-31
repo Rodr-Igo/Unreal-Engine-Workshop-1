@@ -280,12 +280,15 @@
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "E:\Visual Studio\2022\VC\Tools\MSVC\14.41.34120\INCLUDE"
+/external:I "E:\Visual Studio\2022\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash\Definitions.h"
+/FI"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\SlashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash\Definitions.Slash.h"
+/Yu"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\SlashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\SlashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
 /Fo"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash\Item.cpp.obj"
 /sourceDependencies "E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash\Item.cpp.dep.json"
 /Zc:inline
