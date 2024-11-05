@@ -63,4 +63,7 @@
       <Filter>Source\Slash\Public</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Slash\DebugMacros.h" />
+  </ItemGroup>
 </Project>

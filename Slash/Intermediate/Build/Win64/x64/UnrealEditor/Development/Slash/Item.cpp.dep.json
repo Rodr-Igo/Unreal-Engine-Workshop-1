@@ -7,7 +7,8 @@
         "Includes": [
             "e:\\unreal projects\\git-hub projects\\unreal-engine-workshop-1\\slash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\slash\\definitions.slash.h",
             "e:\\unreal projects\\git-hub projects\\unreal-engine-workshop-1\\slash\\source\\slash\\public\\item.h",
-            "e:\\unreal projects\\git-hub projects\\unreal-engine-workshop-1\\slash\\intermediate\\build\\win64\\unrealeditor\\inc\\slash\\uht\\item.generated.h"
+            "e:\\unreal projects\\git-hub projects\\unreal-engine-workshop-1\\slash\\intermediate\\build\\win64\\unrealeditor\\inc\\slash\\uht\\item.generated.h",
+            "e:\\unreal projects\\git-hub projects\\unreal-engine-workshop-1\\slash\\source\\slash\\debugmacros.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
