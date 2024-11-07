@@ -285,10 +285,7 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\SlashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash\Definitions.Slash.h"
-/Yu"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\SlashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\SlashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/FI"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash\Definitions.h"
 /Fo"E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash\Item.cpp.obj"
 /sourceDependencies "E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash\Item.cpp.dep.json"
 /Zc:inline
