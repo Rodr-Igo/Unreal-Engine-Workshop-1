@@ -6868,3 +6868,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-18.18.16:612][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.11.07-18.18.16:630][ 60]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.11.07-18.18.16:671][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.11.07-18.20.48:867][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.07-18.20.48:874][596]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.003966 seconds
+[2024.11.07-18.20.48:876][596]LogSerialization: UsePackageTrailer: 'true'
+[2024.11.07-18.20.48:878][596]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/F/1C/XLRPCOF50XI9OMOOWIWJSF_Auto1
+[2024.11.07-18.20.48:879][596]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/XLRPCOF50XI9OMOOWIWJSF_Auto172F367C3411D6C6FB7B3719024AD6D76.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/F/1C/XLRPCOF50XI9OMOOWIWJSF_Auto1.uasset'
+[2024.11.07-18.20.48:881][596]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/6/BI/STFWICGQI1ZQ164CO9RSW2_Auto1
+[2024.11.07-18.20.48:881][596]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/STFWICGQI1ZQ164CO9RSW2_Auto1F5A60C6A42B43E00BDCF51B8AE3D9924.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/6/BI/STFWICGQI1ZQ164CO9RSW2_Auto1.uasset'
+[2024.11.07-18.20.48:882][596]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/A/5B/06CHKJA397LN9SRV0BH6JY_Auto1
+[2024.11.07-18.20.48:882][596]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/06CHKJA397LN9SRV0BH6JY_Auto1E9322F2C41D5938ECBD8A39F9C57D072.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/A/5B/06CHKJA397LN9SRV0BH6JY_Auto1.uasset'
+[2024.11.07-18.20.48:883][596]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D_Auto1
+[2024.11.07-18.20.48:884][596]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/JFLRMPNW6O4TVHUG9OUC9D_Auto161E4549F414355F83588C6A5EE9A0423.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D_Auto1.uasset'
+[2024.11.07-18.20.48:885][596]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.024
+[2024.11.07-18.20.48:885][596]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
