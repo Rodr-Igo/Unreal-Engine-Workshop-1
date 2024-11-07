@@ -11295,3 +11295,24 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-18.39.55:861][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.11.07-18.39.55:878][ 25]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.11.07-18.39.55:916][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.11.07-18.41.36:004][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.07-18.41.36:009][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-18.41.36:042][835]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/1C/XLRPCOF50XI9OMOOWIWJSF
+[2024.11.07-18.41.36:042][835]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/XLRPCOF50XI9OMOOWIWJSF6FA15AF84B36E50BA5FFB1AFBA3EF25F.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/1C/XLRPCOF50XI9OMOOWIWJSF.uasset'
+[2024.11.07-18.41.36:044][835]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/6/BI/STFWICGQI1ZQ164CO9RSW2
+[2024.11.07-18.41.36:044][835]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/STFWICGQI1ZQ164CO9RSW2D1CC53B64486A378185C8381ED57EFD8.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/6/BI/STFWICGQI1ZQ164CO9RSW2.uasset'
+[2024.11.07-18.41.36:045][835]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/A/5B/06CHKJA397LN9SRV0BH6JY
+[2024.11.07-18.41.36:046][835]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/06CHKJA397LN9SRV0BH6JY568C64F4464DA9457B85878EDBC3539E.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/A/5B/06CHKJA397LN9SRV0BH6JY.uasset'
+[2024.11.07-18.41.36:047][835]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D
+[2024.11.07-18.41.36:047][835]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/JFLRMPNW6O4TVHUG9OUC9D07BD0168423274E2E1DFD5A3743F709D.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D.uasset'
+[2024.11.07-18.41.36:058][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms
+[2024.11.07-18.41.36:062][835]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-18.41.36:062][835]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_UAID_3C7C3FED098A4E1502_1339196399
+[2024.11.07-18.41.36:062][835]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_UAID_3C7C3FED098AFD2A02_1754224375
+[2024.11.07-18.41.36:062][835]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_UAID_3C7C3FED098A051502_1422874559
+[2024.11.07-18.41.36:062][835]LogContentValidation: Display: Validating /Game/Blueprints/Items/BP_Item.BP_Item_C /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.BP_Item_C_UAID_3C7C3FED098A002B02_1859147904
+[2024.11.07-18.41.36:067][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.07-18.41.36:566][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.11.07-18.41.36:830][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.11.07-18.41.37:093][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.07-18.41.37:465][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
