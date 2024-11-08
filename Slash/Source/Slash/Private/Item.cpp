@@ -10,7 +10,6 @@ AItem::AItem()
 {
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
 }
 
 void AItem::BeginPlay()
@@ -50,6 +49,7 @@ void AItem::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	/*
 	UE_LOG(LogTemp, Warning, TEXT("DeltaTime: %f"), DeltaTime);
 
 	if (GEngine)
@@ -72,5 +72,16 @@ void AItem::Tick(float DeltaTime)
 	DRAW_SPHERE_SingleFrame(GetActorLocation());
 	//The vector draw is always looking forward with the length of 1 * 100 but the actor is Rotating. RotationRate * DeltaTime 
 	DRAW_VECTOR_SingleFrame(GetActorLocation(),GetActorLocation() + GetActorForwardVector() * 100.f);
+	*/
+
+	//We create a sum
+	RunningTime += DeltaTime;
+	//The we use de Sin Function to get a wave function
+	float DeltaZ = Amplitude * FMath::Sin(RunningTime * TimeConstant);
+
+	AddActorWorldOffset(FVector(0.f, 0.f, DeltaZ));
+
+	DRAW_SPHERE_SingleFrame(GetActorLocation());
+	DRAW_VECTOR_SingleFrame(GetActorLocation(), GetActorLocation() + GetActorForwardVector() * 100.f);
 }
 

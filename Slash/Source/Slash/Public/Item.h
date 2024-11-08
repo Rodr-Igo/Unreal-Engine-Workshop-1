@@ -19,7 +19,8 @@ public:
 protected:
 	virtual void BeginPlay() override;
 
-public:	
-	
-
+private:	
+	float RunningTime;
+	float Amplitude = .25f;
+	float TimeConstant = 5.f;
 };
