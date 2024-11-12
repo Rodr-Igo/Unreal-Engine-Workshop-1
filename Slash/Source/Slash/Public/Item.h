@@ -16,15 +16,15 @@ public:
 	AItem();
 
 	virtual void Tick(float DeltaTime) override;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	float Amplitude = .25f;
 protected:
 	virtual void BeginPlay() override;
 
 private:
 	UPROPERTY(VisibleDefaultsOnly)
 	float RunningTime;
-
-	UPROPERTY(EditAnywhere)
-	float Amplitude = .25f;
 	UPROPERTY(EditAnywhere)
 	float TimeConstant = 5.f;
 };
