@@ -29,6 +29,10 @@ void EmptyLinkFunctionForGeneratedCodeItem() {}
 		static const UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_RunningTime_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_RunningTime;
+#if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_Amplitude_MetaData[];
 #endif
 		static const UECodeGen_Private::FFloatPropertyParams NewProp_Amplitude;
@@ -51,6 +55,13 @@ void EmptyLinkFunctionForGeneratedCodeItem() {}
 	};
 #endif
 #if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AItem_Statics::NewProp_RunningTime_MetaData[] = {
+		{ "Category", "Item" },
+		{ "ModuleRelativePath", "Public/Item.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AItem_Statics::NewProp_RunningTime = { "RunningTime", nullptr, (EPropertyFlags)0x0040000000030001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(AItem, RunningTime), METADATA_PARAMS(Z_Construct_UClass_AItem_Statics::NewProp_RunningTime_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AItem_Statics::NewProp_RunningTime_MetaData)) };
+#if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AItem_Statics::NewProp_Amplitude_MetaData[] = {
 		{ "Category", "Item" },
 		{ "ModuleRelativePath", "Public/Item.h" },
@@ -65,6 +76,7 @@ void EmptyLinkFunctionForGeneratedCodeItem() {}
 #endif
 	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AItem_Statics::NewProp_TimeConstant = { "TimeConstant", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(AItem, TimeConstant), METADATA_PARAMS(Z_Construct_UClass_AItem_Statics::NewProp_TimeConstant_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AItem_Statics::NewProp_TimeConstant_MetaData)) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AItem_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AItem_Statics::NewProp_RunningTime,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AItem_Statics::NewProp_Amplitude,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AItem_Statics::NewProp_TimeConstant,
 	};
@@ -105,9 +117,9 @@ void EmptyLinkFunctionForGeneratedCodeItem() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_Git_Hub_Projects_Unreal_Engine_Workshop_1_Slash_Source_Slash_Public_Item_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AItem, AItem::StaticClass, TEXT("AItem"), &Z_Registration_Info_UClass_AItem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AItem), 2472194207U) },
+		{ Z_Construct_UClass_AItem, AItem::StaticClass, TEXT("AItem"), &Z_Registration_Info_UClass_AItem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AItem), 3960342440U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_Git_Hub_Projects_Unreal_Engine_Workshop_1_Slash_Source_Slash_Public_Item_h_4022116862(TEXT("/Script/Slash"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_Git_Hub_Projects_Unreal_Engine_Workshop_1_Slash_Source_Slash_Public_Item_h_1120556858(TEXT("/Script/Slash"),
 		Z_CompiledInDeferFile_FID_Unreal_Projects_Git_Hub_Projects_Unreal_Engine_Workshop_1_Slash_Source_Slash_Public_Item_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_Git_Hub_Projects_Unreal_Engine_Workshop_1_Slash_Source_Slash_Public_Item_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
