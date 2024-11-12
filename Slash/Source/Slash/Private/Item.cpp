@@ -45,6 +45,16 @@ void AItem::BeginPlay()
 	*/
 }
 
+float AItem::TransformedSin()
+{
+	return Amplitude * FMath::Sin(RunningTime * TimeConstant);
+}
+
+float AItem::TransformedCos()
+{
+	return Amplitude * FMath::Cos(RunningTime * TimeConstant);
+}
+
 void AItem::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
@@ -77,9 +87,9 @@ void AItem::Tick(float DeltaTime)
 	//We create a sum
 	RunningTime += DeltaTime;
 	//The we use de Sin Function to get a wave function
-	float DeltaZ = Amplitude * FMath::Sin(RunningTime * TimeConstant);
+	//float DeltaZ = Amplitude * FMath::Sin(RunningTime * TimeConstant);
 
-	AddActorWorldOffset(FVector(0.f, 0.f, DeltaZ));
+	//AddActorWorldOffset(FVector(0.f, 0.f, DeltaZ));
 
 	DRAW_SPHERE_SingleFrame(GetActorLocation());
 	DRAW_VECTOR_SingleFrame(GetActorLocation(), GetActorLocation() + GetActorForwardVector() * 100.f);

@@ -1411,3 +1411,296 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.12-20.03.58:779][616]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/JFLRMPNW6O4TVHUG9OUC9D_Auto1CC44E5BC4BA5BCAAA45E509AD988A327.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D_Auto1.uasset'
 [2024.11.12-20.03.58:780][616]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.118
 [2024.11.12-20.03.58:780][616]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.118
+[2024.11.12-20.31.15:885][528]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.11.12-20.31.15:885][528]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.11.12-20.55.23:399][869]LogDerivedDataCache: C:/Users/rodri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3759 files in 5017 folders with total size 215 MiB.
+[2024.11.12-20.58.30:144][430]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.11.12-21.43.35:688][667]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.11.12-21.43.39:590][729]LogLiveCoding: Display:    Creating library E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Binaries\Win64\UnrealEditor-Slash.patch_4.lib and object E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Binaries\Win64\UnrealEditor-Slash.patch_4.exp
+[2024.11.12-21.43.39:948][730]LogClass: UPackage /Script/Slash Reload.
+[2024.11.12-21.43.39:948][730]LogClass: UClass Item Reload.
+[2024.11.12-21.43.39:948][730]LogClass: Could not find existing class Item in package /Script/Slash for reload, assuming new or modified class
+[2024.11.12-21.43.39:956][730]Re-instancing Item after reload.
+[2024.11.12-21.43.40:074][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.11.12-21.43.40:466][731]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.11.12-21.43.40:466][731]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.11.12-21.44.35:841][337]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.11.12-21.44.39:781][397]LogLiveCoding: Display:    Creating library E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Binaries\Win64\UnrealEditor-Slash.patch_5.lib and object E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Binaries\Win64\UnrealEditor-Slash.patch_5.exp
+[2024.11.12-21.44.40:101][398]LogClass: UPackage /Script/Slash Reload.
+[2024.11.12-21.44.40:101][398]LogClass: UClass Item Reload.
+[2024.11.12-21.44.40:101][398]LogClass: Could not find existing class Item in package /Script/Slash for reload, assuming new or modified class
+[2024.11.12-21.44.40:101][398]LogClass: Function TransformedSin is new or belongs to a modified class.
+[2024.11.12-21.44.40:110][398]Re-instancing Item after reload.
+[2024.11.12-21.44.40:256][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.11.12-21.44.40:598][399]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.11.12-21.44.40:598][399]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.11.12-21.45.23:875][551]BlueprintLog: New page: Compile BP_Item
+[2024.11.12-21.45.23:993][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.11.12-21.45.32:039][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-21.45.32:067][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D
+[2024.11.12-21.45.32:067][188]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/JFLRMPNW6O4TVHUG9OUC9DEBA2B8CC4BEB3DC75FED548928978ADF.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D.uasset'
+[2024.11.12-21.45.32:079][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 247 ms)
+[2024.11.12-21.45.32:085][188]AssetCheck: New page: Asset Save: BP_Item_C_UAID_3C7C3FED098A002B02_1859147904
+[2024.11.12-21.45.32:085][188]LogContentValidation: Display: Validating /Game/Blueprints/Items/BP_Item.BP_Item_C /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.BP_Item_C_UAID_3C7C3FED098A002B02_1859147904
+[2024.11.12-21.45.32:090][188]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.45.41:260][115]LogSlate: Window 'Save Asset As' being destroyed
+[2024.11.12-21.45.44:043][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.11.12-21.45.44:068][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-21.45.44:094][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Item" FILE="../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Blueprints/Items/BP_Item.uasset" SILENT=true
+[2024.11.12-21.45.44:096][441]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2024.11.12-21.45.44:096][441]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/BP_Item6B91662D4F196D645C467B93F9B7D4E0.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Blueprints/Items/BP_Item.uasset'
+[2024.11.12-21.45.44:103][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 283 ms)
+[2024.11.12-21.45.44:109][441]AssetCheck: New page: Asset Save: BP_Item
+[2024.11.12-21.45.44:109][441]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BP_Item.BP_Item
+[2024.11.12-21.46.49:974][305]BlueprintLog: New page: Compile BP_Item
+[2024.11.12-21.46.50:005][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.11.12-21.47.14:126][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-21.47.14:155][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Item" FILE="../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Blueprints/Items/BP_Item.uasset" SILENT=true
+[2024.11.12-21.47.14:158][856]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2024.11.12-21.47.14:159][856]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/BP_Item09B3B3134DDEFCF0F30DCEB9435699CB.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Blueprints/Items/BP_Item.uasset'
+[2024.11.12-21.47.14:171][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 329 ms)
+[2024.11.12-21.47.14:176][856]AssetCheck: New page: Asset Save: BP_Item
+[2024.11.12-21.47.14:176][856]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BP_Item.BP_Item
+[2024.11.12-21.47.15:792][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.12-21.47.15:798][ 26]LogContentBundle: [SlashOpenWorld(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.12-21.47.15:801][ 26]LogWorldPartition: Display: GenerateStreaming started...
+[2024.11.12-21.47.15:801][ 26]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.11.12-21.47.15:801][ 26]LogWorldPartition: Display: GetPartitionedActors took 55 us (total: 180 us)
+[2024.11.12-21.47.15:803][ 26]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 4 ms)
+[2024.11.12-21.47.15:805][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.12-21.47.15:806][ 26]PIE: New page: PIE session: SlashOpenWorld (Nov 12, 2024, 9:47:15 AM)
+[2024.11.12-21.47.15:832][ 26]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2024.11.12-21.47.15:840][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007349s)
+[2024.11.12-21.47.15:840][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.007384s)
+[2024.11.12-21.47.15:840][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.12-21.47.15:840][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.12-21.47.15:840][ 26]LogAIModule: Creating AISystem for world SlashOpenWorld
+[2024.11.12-21.47.15:840][ 26]LogWorldPartition: ULevel::OnLevelLoaded(SlashOpenWorld)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.12-21.47.15:840][ 26]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.12-21.47.15:840][ 26]LogWorldPartition: UWorldPartition::Initialize(Asset=SlashOpenWorld, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.11.12-21.47.15:843][ 26]LogContentBundle: [SlashOpenWorld(Standalone)] Creating new contrainer.
+[2024.11.12-21.47.15:843][ 26]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 203 ms)
+[2024.11.12-21.47.15:843][ 26]LogPlayLevel: PIE: World Init took: (0.002726s)
+[2024.11.12-21.47.15:860][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.12-21.47.15:863][ 26]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.12-21.47.15:863][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.12-21.47.15:863][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.12-21.47.15:863][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.12-21.47.15:863][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.12-21.47.15:863][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.12-21.47.15:863][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.12-21.47.15:863][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.12-21.47.15:863][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.12-21.47.15:864][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.12-21.47.15:864][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.12-21.47.15:864][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.12-21.47.15:866][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.12-21.47.15:891][ 26]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2024.11.12-21.47.15:891][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.12-21.47.15:891][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.12-21.47.15:891][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.12-21.47.15:891][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.11.12-21.47.15:891][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.11.12-21.47.15:892][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.11.12-21.47.15:892][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.11.12-21.47.15:892][ 26]LogInit: FAudioDevice initialized with ID 4.
+[2024.11.12-21.47.15:892][ 26]LogAudio: Display: Audio Device (ID: 4) registered with world 'SlashOpenWorld'.
+[2024.11.12-21.47.15:893][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.12-21.47.15:895][ 26]LogLoad: Game class is 'GameModeBase'
+[2024.11.12-21.47.15:895][ 26]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2024.11.12-15.47.15
+[2024.11.12-21.47.15:895][ 26]LogWorld: Bringing up level for play took: 0.000504
+[2024.11.12-21.47.15:897][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.11.12-21.47.15:898][ 26]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2024.11.12-21.47.15:898][ 26]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=125.650 Y=117.333 Z=68.769,P=0.000000 Y=95.891443 R=-0.000000
+[2024.11.12-21.47.15:898][ 26]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.12-21.47.15:900][ 26]LogBlueprintUserMessages: [BP_Item_C_UAID_3C7C3FED098A002B02_1859147904] Begin play!
+[2024.11.12-21.47.15:900][ 26]PIE: Server logged in
+[2024.11.12-21.47.15:900][ 26]PIE: Play in editor total start time 0.102 seconds.
+[2024.11.12-21.47.15:919][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:919][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:919][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:920][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:920][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:920][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:920][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:921][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:921][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:921][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:922][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:922][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:923][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:923][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:923][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:931][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:931][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:931][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:931][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:932][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:932][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:932][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:932][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:933][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:933][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:933][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:933][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:934][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:934][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.15:934][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.22:413][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.12-21.47.22:413][708]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2024.11.12-21.47.22:413][708]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2024.11.12-21.47.22:413][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-21.47.22:413][708]LogContentBundle: [SlashOpenWorld(Standalone)] Deleting container.
+[2024.11.12-21.47.22:416][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.12-21.47.22:420][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-21.47.22:439][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.12-21.47.22:439][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.12-21.47.22:439][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.12-21.47.22:441][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.12-21.47.22:446][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.12-21.47.22:462][708]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.22:473][709]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.47.22:480][710]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.11.12-21.47.48:111][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.12-21.47.48:113][852]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D_Auto2
+[2024.11.12-21.47.48:114][852]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/JFLRMPNW6O4TVHUG9OUC9D_Auto259CB14734849CA1FBC0A50B18071F078.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/Autosaves/Game/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D_Auto2.uasset'
+[2024.11.12-21.47.48:114][852]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.021
+[2024.11.12-21.47.48:114][852]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.11.12-21.48.28:265][118]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.11.12-21.48.31:267][461]LogLiveCoding: Display:    Creating library E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Binaries\Win64\UnrealEditor-Slash.patch_6.lib and object E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Binaries\Win64\UnrealEditor-Slash.patch_6.exp
+[2024.11.12-21.48.31:381][465]LogClass: UPackage /Script/Slash Reload.
+[2024.11.12-21.48.31:381][465]LogClass: UClass Item Reload.
+[2024.11.12-21.48.31:381][465]LogClass: Could not find existing class Item in package /Script/Slash for reload, assuming new or modified class
+[2024.11.12-21.48.31:381][465]LogClass: Function TransformedSin is new or belongs to a modified class.
+[2024.11.12-21.48.31:388][465]Re-instancing Item after reload.
+[2024.11.12-21.48.31:471][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.12-21.48.31:759][466]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.11.12-21.48.31:759][466]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.11.12-21.50.48:270][ 83]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.11.12-21.50.51:368][445]LogLiveCoding: Display:    Creating library E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Binaries\Win64\UnrealEditor-Slash.patch_7.lib and object E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Binaries\Win64\UnrealEditor-Slash.patch_7.exp
+[2024.11.12-21.50.51:491][449]LogClass: UPackage /Script/Slash Reload.
+[2024.11.12-21.50.51:491][449]LogClass: UClass Item Reload.
+[2024.11.12-21.50.51:491][449]LogClass: Could not find existing class Item in package /Script/Slash for reload, assuming new or modified class
+[2024.11.12-21.50.51:491][449]LogClass: Function TransformedCos is new or belongs to a modified class.
+[2024.11.12-21.50.51:491][449]LogClass: Function TransformedSin is new or belongs to a modified class.
+[2024.11.12-21.50.51:503][449]Re-instancing Item after reload.
+[2024.11.12-21.50.51:506][449]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Git-Hub Projects\Unreal-Engine-Workshop-1\Slash\Content\Blueprints\Items\BP_Item.uasset: [Compiler] In use pin  Value  no longer exists on node  Transformed Sin . Please refresh node or break links to remove pin.
+[2024.11.12-21.50.51:657][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.11.12-21.50.51:947][450]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.11.12-21.50.51:947][450]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.11.12-21.51.24:151][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-21.51.24:178][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Item" FILE="../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Blueprints/Items/BP_Item.uasset" SILENT=true
+[2024.11.12-21.51.24:181][697]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2024.11.12-21.51.24:181][697]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/BP_Item508077A8475A3E44FF0618AE687A0553.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/Blueprints/Items/BP_Item.uasset'
+[2024.11.12-21.51.24:188][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 365 ms)
+[2024.11.12-21.51.24:198][697]AssetCheck: New page: Asset Save: BP_Item
+[2024.11.12-21.51.24:198][697]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Items/BP_Item.BP_Item
+[2024.11.12-21.51.30:786][468]BlueprintLog: New page: Compile BP_Item
+[2024.11.12-21.51.30:903][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.11.12-21.51.49:148][950]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.12-21.51.49:154][950]LogContentBundle: [SlashOpenWorld(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.12-21.51.49:157][950]LogWorldPartition: Display: GenerateStreaming started...
+[2024.11.12-21.51.49:157][950]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.11.12-21.51.49:157][950]LogWorldPartition: Display: GetPartitionedActors took 60 us (total: 240 us)
+[2024.11.12-21.51.49:159][950]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 6 ms)
+[2024.11.12-21.51.49:161][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.12-21.51.49:161][950]PIE: New page: PIE session: SlashOpenWorld (Nov 12, 2024, 9:51:49 AM)
+[2024.11.12-21.51.49:161][950]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2024.11.12-21.51.49:169][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007293s)
+[2024.11.12-21.51.49:169][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.007318s)
+[2024.11.12-21.51.49:169][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.12-21.51.49:169][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.12-21.51.49:169][950]LogAIModule: Creating AISystem for world SlashOpenWorld
+[2024.11.12-21.51.49:170][950]LogWorldPartition: ULevel::OnLevelLoaded(SlashOpenWorld)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.12-21.51.49:170][950]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.12-21.51.49:170][950]LogWorldPartition: UWorldPartition::Initialize(Asset=SlashOpenWorld, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.11.12-21.51.49:172][950]LogContentBundle: [SlashOpenWorld(Standalone)] Creating new contrainer.
+[2024.11.12-21.51.49:172][950]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 205 ms)
+[2024.11.12-21.51.49:172][950]LogPlayLevel: PIE: World Init took: (0.003033s)
+[2024.11.12-21.51.49:220][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.11.12-21.51.49:239][950]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.12-21.51.49:239][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.12-21.51.49:239][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.12-21.51.49:239][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.12-21.51.49:239][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.12-21.51.49:239][950]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.12-21.51.49:239][950]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.12-21.51.49:239][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.12-21.51.49:239][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.12-21.51.49:239][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.12-21.51.49:239][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.12-21.51.49:239][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.12-21.51.49:241][950]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.12-21.51.49:266][950]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2024.11.12-21.51.49:266][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.12-21.51.49:266][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.12-21.51.49:266][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.12-21.51.49:266][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.12-21.51.49:266][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.11.12-21.51.49:268][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.12-21.51.49:268][950]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.12-21.51.49:268][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.12-21.51.49:268][950]LogAudio: Display: Audio Device (ID: 5) registered with world 'SlashOpenWorld'.
+[2024.11.12-21.51.49:268][950]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.12-21.51.49:270][950]LogLoad: Game class is 'GameModeBase'
+[2024.11.12-21.51.49:271][950]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2024.11.12-15.51.49
+[2024.11.12-21.51.49:271][950]LogWorld: Bringing up level for play took: 0.000497
+[2024.11.12-21.51.49:272][950]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.11.12-21.51.49:274][950]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2024.11.12-21.51.49:274][950]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=163.827 Y=-264.043 Z=145.692,P=0.000000 Y=98.156136 R=-0.000000
+[2024.11.12-21.51.49:275][950]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.12-21.51.49:276][950]LogBlueprintUserMessages: [BP_Item_C_UAID_3C7C3FED098A002B02_1859147904] Begin play!
+[2024.11.12-21.51.49:276][950]PIE: Server logged in
+[2024.11.12-21.51.49:276][950]PIE: Play in editor total start time 0.122 seconds.
+[2024.11.12-21.51.49:290][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:290][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:291][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:291][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:291][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:291][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:292][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:292][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:292][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:293][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:293][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:293][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:293][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:293][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:294][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:309][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:309][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:310][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:310][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:310][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:310][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:311][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:311][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:311][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:312][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:312][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:312][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:313][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:313][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.49:313][951]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.54:774][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.12-21.51.54:774][590]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2024.11.12-21.51.54:774][590]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2024.11.12-21.51.54:774][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-21.51.54:774][590]LogContentBundle: [SlashOpenWorld(Standalone)] Deleting container.
+[2024.11.12-21.51.54:776][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.12-21.51.54:781][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-21.51.54:797][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.12-21.51.54:797][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.12-21.51.54:797][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.12-21.51.54:799][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.12-21.51.54:804][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.12-21.51.54:829][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.51.54:841][591]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.11.12-21.51.54:846][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.12-21.52.48:069][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-21.52.48:093][232]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D
+[2024.11.12-21.52.48:093][232]LogSavePackage: Moving '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Saved/JFLRMPNW6O4TVHUG9OUC9D262F7BD5423CBFDF9228D791D81D9997.tmp' to '../../../../../Unreal Projects/Git-Hub Projects/Unreal-Engine-Workshop-1/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/D/3H/JFLRMPNW6O4TVHUG9OUC9D.uasset'
+[2024.11.12-21.52.48:105][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 401 ms)
+[2024.11.12-21.52.48:110][232]AssetCheck: New page: Asset Save: BP_Item_C_UAID_3C7C3FED098A002B02_1859147904
+[2024.11.12-21.52.48:110][232]LogContentValidation: Display: Validating /Game/Blueprints/Items/BP_Item.BP_Item_C /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.BP_Item_C_UAID_3C7C3FED098A002B02_1859147904
+[2024.11.12-21.52.48:116][232]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
